@@ -62,4 +62,6 @@ function mostrarSobre() {
     if (secao.style.display === "none") {
         secao.style.display = "block";
     } else {
-        secao.style.display = "none";}
+        secao.style.display = "none";
+    }
+}
